@@ -6,3 +6,4 @@ It contains functionalities like:
 3. Can Save the Form data and form response into files in your local system
 4. Undo and Redo capabilities have been integrated
 
+![form-builder](https://user-images.githubusercontent.com/96003203/202688206-07ab5bf3-5f48-4e33-be37-16da8dfdea44.png)
